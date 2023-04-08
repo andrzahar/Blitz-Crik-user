@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1658243774454.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1658259062996.xml" value="0.20819256756756757" />
+        <entry key="../../../../layout/compose-model-1658310503020.xml" value="0.21157094594594594" />
+        <entry key="../../../../layout/compose-model-1658346690639.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1658346870738.xml" value="0.21241554054054054" />
+        <entry key="../../../../layout/compose-model-1658348938507.xml" value="0.21241554054054054" />
+        <entry key="../../../../layout/compose-model-1658349054840.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1658349144088.xml" value="0.21241554054054054" />
+        <entry key="../../../../layout/compose-model-1658353671632.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1658409045731.xml" value="0.375" />
+        <entry key="../../../../layout/compose-model-1658411042308.xml" value="0.335" />
+        <entry key="../../../../layout/compose-model-1658415029775.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1658422521239.xml" value="0.21241554054054054" />
+        <entry key="../../../../layout/compose-model-1658748236433.xml" value="0.20903716216216217" />
+        <entry key="../../../../layout/compose-model-1658750538773.xml" value="0.165" />
+        <entry key="../../../../layout/compose-model-1658756187846.xml" value="0.165" />
+        <entry key="app/src/main/res/font/istok_web_bold.xml" value="0.26153846153846155" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
